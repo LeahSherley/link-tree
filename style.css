@@ -4,6 +4,10 @@ body {
     margin: 0;
     padding: 0;
     background-color: transparent;
+    background-image: url("https://i.pinimg.com/564x/cd/01/55/cd01559156399e0c224bb7309a7cbd50.jpg");
+    background-size: cover;
+    background-position: center;
+    background-blend-mode: difference;
 }
 
 .container {
@@ -12,7 +16,7 @@ body {
     padding: 20px;
     background-color: #fff;
     border-radius: 8px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 0 10px gray;
     text-align: center;
     background-image: url("https://i.pinimg.com/564x/cd/01/55/cd01559156399e0c224bb7309a7cbd50.jpg");
     background-size: cover;
