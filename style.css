@@ -8,6 +8,7 @@ body {
     background-size: cover;
     background-position: center;
     background-blend-mode: overlay;
+    background-repeat: no-repeat;
 }
 
 .container {
@@ -64,5 +65,5 @@ h3 {
 .link-list li a:hover {
     background-color: transparent;
     border: 1px solid white;
-    transform: scale(1.1)
+    transform: scale(1.02)
 }
