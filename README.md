@@ -8,5 +8,6 @@ The link tree contains a collection of links to my portfolio, GitHub profile, an
 - CSS
 
 ## Screenshot
+![Linktree](/leahSherley.png)
 
 Thanks for stopping by! 😊
